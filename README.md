@@ -1,6 +1,6 @@
 # Renaming Script
 
-This script renames "project.asset.json" files to "project.json" in a specified directory, allowing them to be picked up by our SCA scanners that only recognize "project.json" files.
+This script renames "project.asset.json" files to "project.json" in a specified directory, allowing them to be picked up by our SCA scanners that currently only recognize "project.json" files for .NET projects.
 
 ## Prerequisites
 
